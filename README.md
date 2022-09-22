@@ -1,6 +1,6 @@
 # About this project
 
-This is a cards game using React.js. Here after selcting first card need to select second card and match it with the first card. If they do not match, then both the cards again flip backwards and have lost a turn. If they match, then can move on to match the next set of cards. The player with minimum no of turns to match all the cards wins.   
+This is a cards game using React.js. Here after selecting any first card need to select second card and match it with the first card. If they do not match, then both the cards again flip backwards and the user has lost a turn. If they match, then can move on to match the next set of cards. The player with minimum no of turns to match all the cards wins.   
 Check it out here: https://silly-horse-608b7d.netlify.app
 
 
