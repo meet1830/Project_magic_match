@@ -1,3 +1,8 @@
+# About this project
+
+This is a cards game using React.js. Here after selcting first card need to select second card and match it with the first card. If they do not match, then both the cards again flip backwards and have lost a turn. If they match, then can move on to match the next set of cards. The player with minimum no of turns to match all the cards wins.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Project_magic_match
